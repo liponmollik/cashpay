@@ -1,0 +1,20 @@
+go 1.19
+
+use (
+	.
+	./apigateway
+	./pkg/auth
+	./vendor/github.com/go-logfmt/logfmt
+	./vendor/github.com/google/uuid
+	./vendor/github.com/jinzhu/gorm
+	./vendor/github.com/jinzhu/inflection
+	./vendor/github.com/konsorten/go-windows-terminal-sequences
+	./vendor/github.com/lib/pq
+	./vendor/github.com/lithammer/shortuuid/v3
+	./vendor/github.com/onsi/ginkgo
+	./vendor/github.com/onsi/gomega
+	./vendor/github.com/sirupsen/logrus
+	./vendor/golang.org/x/xerrors
+	./vendor/google.golang.org/grpc
+	./vendor/gopkg.in/yaml.v2
+)

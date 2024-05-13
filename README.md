@@ -1,15 +1,19 @@
 # Cashpay Digital Financial Services
 
-Cashpay Digital Financial Services company that 
+Cashpay Digital Financial Services
 
 The Cashpay Financial service to provide finance solution from various aspect. It is a complete solution to provide personal banking, personal finance, business finance, insurance, zakat management, cross border payment solution, .
 
 #### Tasks
 Implement the Cashpay-Service using RESTful APIs in microservice-oriented model, in a blockchain platform in hybrid launchpad.
 
-1. A microservice for financial echosystem for Mobile, Web, and IoT API service.
+1. A microservice for financial echosystem for Mobile, Web, and IoT based machines.
 2. A microservice for processing transaction through smart contract, storing financial transaction in blockchain platform, verifying through consensus mechanism and Machine learning for financial data analytics.
-3. A modern solution combining blockchain, AI, and doain activities of financial ecosystem.
+3. A modern solution combining blockchain, AI, Cryptocurrency, and domain activities of financial ecosystem.
+4. Managing accounts for Fiat and Crypto currency from a single point.
+5. Managing platform
+6. Own Publich and Priate network with custom protocol service
+7. Cosmos Echosystem for Interoperability
 
 #### Note
 Provide sufficient Unit-Tests to ensure the functionality of the service by giving enough logging output monitoring various (10 books, 10 Journals)
@@ -28,12 +32,6 @@ Create test scenarios for following typical microservice patterns:
 - Circuit Breaker
 - Mirroring
 
-###### References and samples:
-See impressive sample for some of these service mesh features here
-https://github.com/DerSalvador/demo-mesh-arena
 
-Knative CloudEvents Sample here
-https://github.com/DerSalvador/eventing-contrib.git
 
-##### Conribution:
-Issue Tracker: https://trello.com/b/tuDO5DYR/watermark-service-application
+

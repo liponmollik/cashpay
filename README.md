@@ -11,9 +11,10 @@ Implement the Cashpay-Service using RESTful APIs in microservice-oriented model,
 2. A microservice for processing transaction through smart contract, storing financial transaction in blockchain platform, verifying through consensus mechanism and Machine learning for financial data analytics.
 3. A modern solution combining blockchain, AI, Cryptocurrency, and domain activities of financial ecosystem.
 4. Managing accounts for Fiat and Crypto currency from a single point.
-5. Managing platform
-6. Own Publich and Priate network with custom protocol service
+5. Managing customized own platform
+6. Public and Private network with custom protocol service
 7. Cosmos Echosystem for Interoperability
+8. Golang based blockchain technology applied financial echosystem.
 
 #### Note
 Provide sufficient Unit-Tests to ensure the functionality of the service by giving enough logging output monitoring various (10 books, 10 Journals)
